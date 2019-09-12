@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "nodemon ./bin/www",
-    "test": "mocha --compilers "
+    "test": "mocha --recursive"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
